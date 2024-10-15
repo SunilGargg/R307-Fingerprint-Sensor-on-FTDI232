@@ -19,7 +19,7 @@ This repository provides a C-based library for interfacing the **R307 Fingerprin
 
 The connection diagram below shows how to wire the R307 module to the FTDI232 module:
 
-![image alt](image_https://github.com/SunilGargg/R307-Fingerprint-Sensor-on-FTDI232/blob/8a4feae34df54840cbf2fe9fc2ec143ce59b996d/Add%20a%20subheading.png)
+![image](https://github.com/user-attachments/assets/91e57c19-cda4-4811-a1ec-5fa89d3d77b9)
 
 | **FTDI232**  | **R307 Fingerprint Sensor** |
 |--------------|-----------------------------|
