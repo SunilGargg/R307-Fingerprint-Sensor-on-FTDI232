@@ -1,6 +1,6 @@
 # R307 Fingerprint Sensor Module with FTDI232
 
-This repository provides a C-based library for interfacing the **R307 Fingerprint Sensor Module** using the **FTDI232 USB-to-UART bridge**. The library supports key functionalities for communicating with the sensor and handling fingerprint data using the FTDI232 for serial communication.
+This repository provides a Python-based library for interfacing the **R307 Fingerprint Sensor Module** using the **FTDI232 USB-to-UART bridge**. The library supports key functionalities for communicating with the sensor and handling fingerprint data using the FTDI232 for serial communication.
 
 ## Features
 - Interface with R307 Fingerprint Sensor using FTDI232 via UART.
